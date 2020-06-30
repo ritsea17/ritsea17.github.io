@@ -9,3 +9,6 @@ Frodo Beutlin ist eine fiktive Figur in den Schriften von J. R. R. Tolkien und e
 * klein
 * große Füße
 * cool
+Wie Frodo Beutlin sagte:
+> Ich heiße Frodo Beutlin
+> Ich bin ein Zwerg und habe große Füße
